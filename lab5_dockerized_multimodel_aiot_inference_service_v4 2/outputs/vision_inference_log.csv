@@ -1,0 +1,11 @@
+timestamp_utc,endpoint,filename,content_type,status,top1_class,top1_confidence,inference_time_ms
+2026-06-09T01:23:17.154589+00:00,/classify-image,classroom_object.jpg,image/jpeg,ok,desktop computer,0.113012,41.925
+2026-06-09T01:32:14.195436+00:00,/classify-image,images.jpeg,image/jpeg,ok,golden retriever,0.261561,11.904
+2026-06-09T01:32:58.078019+00:00,/classify-image,photo-3-16741022864431080103688.webp,image/webp,ok,tiger cat,0.728793,11.732
+2026-06-09T01:35:39.684577+00:00,/classify-image,photo-3-16741022864431080103688.webp,image/webp,ok,tiger cat,0.728793,13.622
+2026-06-09T01:35:41.100348+00:00,/classify-image,photo-3-16741022864431080103688.webp,image/webp,ok,tiger cat,0.728793,13.811
+2026-06-09T02:20:49.409206+00:00,/classify-image,photo-3-16741022864431080103688.webp,image/webp,ok,tiger cat,0.728795,74.578
+2026-06-09T02:25:50.718901+00:00,/classify-image,photo-3-16741022864431080103688.webp,image/webp,ok,tiger cat,0.728795,20.33
+2026-06-09T02:29:54.836615+00:00,/classify-image,photo-3-16741022864431080103688.webp,image/webp,ok,tiger cat,0.728795,15.255
+2026-06-09T04:13:40.092698+00:00,/classify-image,"ChatGPT Image 17_08_03 6 thg 6, 2026 (1).png",image/png,ok,iPod,0.882132,35.685
+2026-06-09T04:13:44.466307+00:00,/classify-image,"ChatGPT Image 17_08_03 6 thg 6, 2026 (1).png",image/png,ok,iPod,0.882132,23.772
